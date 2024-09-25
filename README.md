@@ -1,6 +1,4 @@
 
-(https://kirtanjoshi.io)
-
 <h1 align="center">Hi 👋, I'm Kirtan</h1>
 <h3 align="center">A passionate  developer</h3>
 
