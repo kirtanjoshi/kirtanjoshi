@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kirtan</h1>
 <h3 align="center">A passionate  developer</h3>
-
-<img align ="right" alt ="Coding" width= "400" src ="[https://github.com/rudrabarad/Gifs](https://outlane.co/now/new-shot-programmer-animation/)">
+/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanjoshi" /> </p>
 
