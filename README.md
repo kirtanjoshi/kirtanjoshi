@@ -2,17 +2,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://kirtanjoshi.io)
 
 <h1 align="center">Hi 👋, I'm Kirtan</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">A passionate  developer</h3>
 
 <img align ="right" alt ="Coding" width= "400" src ="[https://github.com/rudrabarad/Gifs](https://outlane.co/now/new-shot-programmer-animation/)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanjoshi" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Flutter , Dart , JavaScript**
 
 - 📫 How to reach me **kirtikirtanj@gmail.com**
 
