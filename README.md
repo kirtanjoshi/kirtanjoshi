@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Kirtan</h1>
+<a href="https://kirtan-joshi.vercel.app/" /> Portfolio </a>
 <h3 align="center">A passionate  developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanjoshi" /> </p>
-
-
-- 🌱 I’m currently in **Flutter**
 
 
 - 📫 How to reach me **kirtikirtanj@gmail.com**
